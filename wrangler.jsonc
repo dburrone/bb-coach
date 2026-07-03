@@ -1,0 +1,8 @@
+{
+  "name": "bb-coach",
+  "main": "worker.js",
+  "compatibility_date": "2026-06-01",
+  "ai": {
+    "binding": "AI"
+  }
+}
